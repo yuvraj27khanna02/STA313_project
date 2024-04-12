@@ -23,6 +23,6 @@
 .tableauPlaceholder{
     background-color: #ce1c1c; /* Light grey background for the grid items */
     border: 2px solid #110606; /* Optional: Adds a border around grid items */
-    padding: 20px; /* Padding inside each grid item */
+    padding: 2px; /* Padding inside each grid item */
     text-align: center; /* Centers the text inside each grid item */
 }
