@@ -20,8 +20,8 @@ body{
 }
 
 .tableauPlaceholder{
-    background-color: #f2f2f2; /* Light grey background for the grid items */
-    border: 1px solid #ccc; /* Optional: Adds a border around grid items */
-    padding: 20px; /* Padding inside each grid item */
+    background-color: #ce1c1c; /* Light grey background for the grid items */
+    border: 100px solid #110606; /* Optional: Adds a border around grid items */
+    padding: 2000px; /* Padding inside each grid item */
     text-align: center; /* Centers the text inside each grid item */
 }
